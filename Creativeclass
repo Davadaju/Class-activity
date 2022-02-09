@@ -1,0 +1,28 @@
+# Class-activity
+Class Diary 
+//Diary class
+const PasswordDiary = "The password is 12345";
+
+
+console.log( PasswordDiary );
+
+//const Question1 = "What is the password?"
+
+//console.log( Question1 );
+
+
+
+const prompt = require( 'prompt-sync' )();
+var Password = prompt( "Insert the password: " );
+console.log( Password );
+
+if( password = 12345 ){  
+    console.log( "Hello this is my diary. 02/02/22. Today the teacher Andrés showed up with all the class, then the teachers explain the work that we going to make in the first period, inside this explication he said about this work The Class Diary. Also he shows his insdustry called (Wombagshop) and he related about the history of Wombagshop (THE HISTORY IS VERY INTERESTHING)To other hand, he told about soccer, how he fait yet don't realese his dream be soccer player Finally, at the end to the class he explains the and how use this to live"
+    
+     );
+}
+const password2 = 2345
+
+if( password2 ){   
+    console.log( "This isn't the password" );
+}
